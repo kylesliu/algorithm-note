@@ -2,9 +2,9 @@
 
 * [介绍](README.md)
 
-## 剑指 Offer <a id="offer"></a>
+## 剑指 Offer <a id="jzof"></a>
 
-* [JZ3.数组中重复的数字](offer/jz3.md)
+* [JZ3.数组中重复的数字](jzof/jz3.md)
 
 ## LeetCode
 
